@@ -1,0 +1,12 @@
+- make database more complicated
+
+// Ban and account deletion
+// user role
+// timestamp
+// use user id foreign key in courses table
+/// Password Recovery
+/// email 
+/// user id autoinecrement and unique
+/// - remove cookies and use sessions
+
+Pagenation
