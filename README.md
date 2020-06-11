@@ -15,4 +15,3 @@ sudo php -S 127.0.0.1:80
 ```
 
 in some cases you might want to edit php.ini in your xamp control panel and change the line where it says ```'file_uploades = off'``` to ```'file_uploades = on'```, this should enable image uploading or the thumbnail of the course.
-# Xomaly-Academy
